@@ -1,0 +1,8 @@
+.idea
+
+libmy.a
+unit_tests
+*.o
+*~
+*.gcda
+*.gcno
